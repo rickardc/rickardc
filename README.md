@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 These are some of my Cloud Certifications.
 
 |[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url)|
+|:---:|
+|![DP100](https://github.com/msandfor/msandfor/blob/main/assets/azure-data-scientist-associate-600x600.png)|
