@@ -24,7 +24,7 @@ These are some of my Cloud Certifications.
 <table>
     <tr>
         <td>
-            <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url">AWS Certified Cloud Practitioner</a>
+            <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" >AWS Certified Cloud Practitioner</a>
         </td>
     </tr>
     <!-- -->
@@ -39,3 +39,13 @@ These are some of my Cloud Certifications.
 |[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url)|
 |:---:|
 |![ASW-CCP](https://github.com/rickardc/rickardc/blob/main/assets/aws-certified-cloud-practitioner.png)|
+
+
+
+
+<style>
+    td {
+        text-align: center;
+    }
+
+</style>
