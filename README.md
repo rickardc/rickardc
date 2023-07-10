@@ -1,5 +1,7 @@
 ### Hi, I'm Chris 👋
 
+I have worked as an engineer on telecommunications infrastructure, 
+
 <!--
 **rickardc/rickardc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +21,21 @@ Here are some ideas to get you started:
 
 These are some of my Cloud Certifications.
 
+<table>
+    <tr>
+        <td>
+            <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url">AWS Certified Cloud Practitioner</a>
+        </td>
+    </tr>
+    <!-- -->
+    <tr>
+        <td>
+            <img src="https://github.com/rickardc/rickardc/blob/main/assets/aws-certified-cloud-practitioner.png">
+        </td>
+    </tr>
+
+</table>
+
 |[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url)|
 |:---:|
-|![DP100](https://github.com/rickardc/rickardc/blob/main/assets/aws-certified-cloud-practitioner.png)|
+|![ASW-CCP](https://github.com/rickardc/rickardc/blob/main/assets/aws-certified-cloud-practitioner.png)|
