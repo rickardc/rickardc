@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Chris 👋
 
 <!--
 **rickardc/rickardc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Technical Certifications
+
+These are some of my Cloud Certifications.
+
+|[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url)|
