@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 
-I have worked as an engineer on telecommunications infrastructure, 
+I have worked as a civil engineer on telecommunications infrastructure projects for over 10 years. I have recently completed a Master of IT (Data Analytics) at Swinburne University of Technology. I am currently looking for a role in data science or data engineering. 
 
 <!--
 **rickardc/rickardc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,3 +40,15 @@ These are some of my Cloud Certifications.
 |:---:|
 |![ASW-CCP](https://github.com/rickardc/rickardc/blob/main/assets/aws-certified-cloud-practitioner.png)|
 -->
+
+## Education
+
+Master of IT (Data Analytics)
+Swinbunre University of Technology
+
+Bachelor of Engineering (Civil)
+Swineburne University of Technology
+
+#### Visualisation of Marks
+
+<img src="assets/histogram.png" alt="Histogram of Marks" width=70%/>
