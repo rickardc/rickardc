@@ -17,6 +17,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
+
+## Skills
+
+- structured problem solving
+- priority management
+- 
+
+- data analysis
+- data visualisation
+- machine learning
+- cloud computing
+- data engineering
+
+## Projects
+
+- Telstra Wireless Design
+- Optus Wireless Design
+- NBN Fixed Wireless Design
+
+- Add pictures of projects
+
+### University Projects
+
+- Computer Vision
+- Image Classification (without deep learning)
+- User Centred Design
+- Data Visualisation
+- Suburb Search
+
+
+## Work Experience
+
+- Project Engineer
+- Structural Engineer
+
+-->
+
 ## Technical Certifications
 
 These are some of my Cloud Certifications.
@@ -43,12 +81,12 @@ These are some of my Cloud Certifications.
 
 ## Education
 
-Master of IT (Data Analytics)
-Swinbunre University of Technology
+Master of IT (Data Analytics) - GPA 3.75
+Swinburne University of Technology
 
 Bachelor of Engineering (Civil)
-Swineburne University of Technology
+Swinburne University of Technology
 
-#### Visualisation of Marks
+#### Visualisation of Mark Distribution
 
 <img src="assets/histogram.png" alt="Histogram of Marks" width=70%/>
