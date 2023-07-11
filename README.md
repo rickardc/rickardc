@@ -20,11 +20,23 @@ Here are some ideas to get you started:
 ## Technical Certifications
 
 These are some of my Cloud Certifications.
-<!--top row-->
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" >AWS Certified Cloud Practitioner</a>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" />
+        </td>
+    </tr>
+
+</table>
+
+<!--
 |[**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url)|
-
-<!-- -->
 |:---:|
-
-<!--bottom row-->
 |![ASW-CCP](https://github.com/rickardc/rickardc/blob/main/assets/aws-certified-cloud-practitioner.png)|
+-->
