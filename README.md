@@ -1,6 +1,8 @@
 ### Hi, I'm Chris 👋
 
+<p>
 I have worked as a civil engineer on telecommunications infrastructure projects for over 10 years. I am currently in a career transition completing Masters of IT (Data Analytics) at Swinburne University of Technology. Also currently looking for a role in data science or data engineering. Using github to display some of my university projects and other personal projects.
+</p>
 
 <!--
 **rickardc/rickardc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,14 +33,6 @@ Here are some ideas to get you started:
 - cloud computing
 - data engineering
 
-## Projects
-
-- Telstra Wireless Design
-- Optus Wireless Design
-- NBN Fixed Wireless Design
-
-- Add pictures of projects
-
 ### University Projects
 
 - Computer Vision
@@ -61,18 +55,25 @@ These are some of my Cloud Certifications.
 
 <table>
     <tr>
-        <td>
+        <th>
+        <a href="https://learn.microsoft.com/api/credentials/share/en-us/Chris-9030/F321A271495D4AB7?sharingId=16E153E7851D7C36">
+        Azure AI-900
+        </th>
+        <th>
             <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" target=_blank>
-            <b>AWS Certified Cloud Practitioner</b>
+            AWS Certified Cloud Practitioner
             </a>
-        </td>
-        <td>
+        </th>
+        <th>
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=56D96A8F3C7446F7F5441A7DB642CC57DB4994D2FAAA9723FBB500D3BBAFC6C3" target=_blank> 
-            <b>OCI Foundations Associate</b>
+            OCI Foundations Associate
             </a>
-        <td>
+        </th>
     </tr>
     <tr>
+        <td style="text-align:center">
+            <img src="assets/azure-ai-fundamentals-600x600.png" alt="Azure AI-900 Badge" width=180/>
+        </td>
         <td style="text-align:center">
             <img src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" />
         </td>
@@ -85,11 +86,11 @@ These are some of my Cloud Certifications.
 
 ## Education
 
-Master of IT (Data Analytics) - GPA 3.75
+<b>Master of IT (Data Analytics) - GPA 3.75</b>
 <br>
 Swinburne University of Technology
 
-Bachelor of Engineering (Civil)
+<b>Bachelor of Engineering (Civil)</b>
 <br>
 Swinburne University of Technology
 
