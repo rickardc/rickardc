@@ -1,3 +1,4 @@
 *.ipynb
 *.csv
 .DS_Store
+*.html

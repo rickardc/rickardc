@@ -57,16 +57,16 @@ These are some of my Cloud Certifications.
     <tr>
         <th>
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/Chris-9030/F321A271495D4AB7?sharingId=16E153E7851D7C36">
-        Azure AI-900
+        Azure <br> AI-900
         </th>
         <th>
             <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" target=_blank>
-            AWS Certified Cloud Practitioner
+            AWS <br> Certified Cloud Practitioner
             </a>
         </th>
         <th>
             <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=56D96A8F3C7446F7F5441A7DB642CC57DB4994D2FAAA9723FBB500D3BBAFC6C3" target=_blank> 
-            OCI Foundations Associate
+            OCI <br> Foundations Associate
             </a>
         </th>
     </tr>
