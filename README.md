@@ -57,11 +57,11 @@ These are some of my Cloud Certifications.
     <tr>
         <th>
         <a href="https://learn.microsoft.com/api/credentials/share/en-us/Chris-9030/F321A271495D4AB7?sharingId=16E153E7851D7C36">
-        Azure <br> AI-900
+        Microsoft <br> AI-900
         </th>
         <th>
             <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" target=_blank>
-            AWS <br> Certified Cloud Practitioner
+            AWS <br> Cloud Practitioner
             </a>
         </th>
         <th>
@@ -96,4 +96,4 @@ Swinburne University of Technology
 
 #### Visualisation of Mark Distribution
 
-<img src="assets/histogram.png" alt="Histogram of Marks" width=70%/>
+<img src="assets/histogram.png" alt="Histogram of Marks" width=90%/>

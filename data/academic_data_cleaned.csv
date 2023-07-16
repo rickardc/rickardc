@@ -1,0 +1,44 @@
+unit_code,unit_title,credit_points,mark,grade,degree_type,field,year,semester
+COS60004,Creating Web Applications,12.5,91,HD,Master,Information Technology,2022,1
+COS60008,Introduction to Data Science,12.5,90,HD,Master,Information Technology,2022,1
+COS60009,Data Management for the Big Data Age,12.5,78,D,Master,Information Technology,2022,1
+COS60010,Technology Enquiry Project,12.5,60,C,Master,Information Technology,2022,1
+COS60011,Technology Design Project,12.5,85,HD,Master,Information Technology,2022,2
+COS70004,User-Centred Design,12.5,88,HD,Master,Information Technology,2022,2
+COS70006,Object-Oriented Programming,12.5,85,HD,Master,Information Technology,2022,2
+COS80025,Data Visualisation,12.5,81,HD,Master,Information Technology,2022,2
+COS70008,Technology Innovation Project,25.0,87,HD,Master,Information Technology,2023,1
+COS80001,Cloud Computing Architecture,12.5,90,HD,Master,Information Technology,2023,1
+COS80027,Machine Learning,12.5,85,HD,Master,Information Technology,2023,1
+HES3112,Urban Water Resources,12.5,81,D,Bachelor,Engineering,2010,1
+HES3121,Design of Steel Structures ,12.5,72,C,Bachelor,Engineering,2010,1
+HES3380,Engineering Management,12.5,73,C,Bachelor,Engineering,2010,1
+HES4136,Transport Engineering,12.5,62,P,Bachelor,Engineering,2010,1
+HES3150,Geotechnical Engineering,12.5,54,P,Bachelor,Engineering,2010,2
+HES4146,Water and Environmental,12.5,76,D,Bachelor,Engineering,2010,2
+HES5175,Cost Engineering,12.5,77,D,Bachelor,Engineering,2010,2
+HES5380,Engineering Management,12.5,68,C,Bachelor,Engineering,2010,2
+HES4126,Structural Engineering,12.5,56,P,Bachelor,Engineering,2011,1
+HES5108,Research Project,12.5,75,D,Bachelor,Engineering,2011,1
+HES6179,"Transport Planning, Modelling and Economics",12.5,63,P,Bachelor,Engineering,2011,1
+HES6196,Intergrated Water Design,12.5,54,P,Bachelor,Engineering,2011,1
+HES5190,Infrastructure Design Project,12.5,69,C,Bachelor,Engineering,2011,2
+HES5195,Infrastructure Management Project,12.5,67,C,Bachelor,Engineering,2011,2
+HES6194,Geotechnical Design,12.5,68,C,Bachelor,Engineering,2011,2
+HES6195,Building Design ,12.5,70,C,Bachelor,Engineering,2011,2
+HEF1000,Professional Engineering,12.5,83,D,Bachelor,Engineering,2008,1
+HES1125,Mechanics of Structures,12.5,65,C,Bachelor,Engineering,2008,1
+HET124,Energy & Motion,12.5,75,D,Bachelor,Engineering,2008,1
+HMS111,Engineering Mathematics 1,12.5,73,C,Bachelor,Engineering,2008,1
+HES1105,Civil Engineering Project,12.5,81,D,Bachelor,Engineering,2008,2
+HES1115,Sustainable Design,12.5,74,C,Bachelor,Engineering,2008,2
+HES1230, Materials and Processes,12.5,60,P,Bachelor,Engineering,2008,2
+HMS112,Engineering Mathematics 2,12.5,75,D,Bachelor,Engineering,2008,2
+HES2120,Structural Mechanics,12.5,69,C,Bachelor,Engineering,2009,1
+HES2131,Topographical Engineering,12.5,76,D,Bachelor,Engineering,2009,1
+HES2146C,Computer Aided Engineering,12.5,82,D,Bachelor,Engineering,2009,1
+HMS215,Engineering Mathematics 3C,12.5,68,C,Bachelor,Engineering,2009,1
+HES2125,Design of Concrete Structures,12.5,67,C,Bachelor,Engineering,2009,2
+HES2136,Road Engineering,12.5,75,D,Bachelor,Engineering,2009,2
+HES2155,Geomechanics,12.5,65,C,Bachelor,Engineering,2009,2
+HES2340,Fluid Mechanics 1 ,12.5,58,P,Bachelor,Engineering,2009,2
