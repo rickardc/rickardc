@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ## Technical Certifications
 
-These are some of my Cloud Certifications.
+These are some of my cloud certifications.
 
 <table>
     <tr>
@@ -86,7 +86,7 @@ These are some of my Cloud Certifications.
 
 ## Education
 
-<b>Master of IT (Data Analytics) - GPA 3.75</b>
+<b>Master of IT (Data Analytics)</b>
 <br>
 Swinburne University of Technology
 
