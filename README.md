@@ -56,12 +56,13 @@ These are some of my cloud certifications.
 <table>
     <tr>
         <th>
-        <a href="https://learn.microsoft.com/api/credentials/share/en-us/Chris-9030/F321A271495D4AB7?sharingId=16E153E7851D7C36">
-        Microsoft <br> AI-900
+            <a href="https://www.credly.com/badges/3def8363-f85c-48dc-b832-563a7cc01a4e/public_url" target=_blank>
+                AWS </br> Solutions Architect
+            </a>
         </th>
         <th>
-            <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" target=_blank>
-            AWS <br> Cloud Practitioner
+            <a href="https://learn.microsoft.com/api/credentials/share/en-us/Chris-9030/F321A271495D4AB7?sharingId=16E153E7851D7C36">
+            Microsoft <br> AI-900
             </a>
         </th>
         <th>
@@ -72,13 +73,25 @@ These are some of my cloud certifications.
     </tr>
     <tr>
         <td style="text-align:center">
+            <img src="assets/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect Associate Badge" width=180/>
+        </td>
+        <td style="text-align:center">
             <img src="assets/azure-ai-fundamentals-600x600.png" alt="Azure AI-900 Badge" width=180/>
         </td>
         <td style="text-align:center">
-            <img src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" />
-        </td>
-        <td style="text-align:center">
             <img src="assets/OCIF2023CA.png" alt="OCI Foundations Associate Badge" width=180/>
+        </td>
+    </tr>
+    <tr>
+        <th>
+            <a href="https://www.credly.com/badges/b7232518-e858-4961-81fc-32be8077ccb9/public_url" target=_blank>
+            AWS <br> Cloud Practitioner
+            </a>
+        </th>
+    </tr>
+    <tr>
+        <td style="text-align:center">
+            <img src="assets/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner Badge" width=180/>
         </td>
     </tr>
 
